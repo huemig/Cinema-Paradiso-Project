@@ -16,6 +16,8 @@ Check out [FRONTEND LIVE DEMO](https://cinema-paradiso-frontend.huemig.repl.co/)
 
 Check out [API LIVE DEMO](https://cinema-paradiso-backend.huemig.repl.co/) here!!
 
+run backend first an copy url. Paste it in baserurl: on api page.
+
 ## Tech used
 
 ```
